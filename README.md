@@ -22,5 +22,5 @@ This final project evaluated the stream network in Larimer County Colorado.  Min
 <p align="left">
 Code:
 
-<img src="https://github.com/JohnDDietrich/Stream-Sinuosity-in-Larimer-County-CO/FinalProject_Dietrich" height="80%" width="80%" alt="Stream Network Analysis"/>
+<img src="https://github.com/JohnDDietrich/Stream-Sinuosity-in-Larimer-County-CO/FinalProject_Dietrich.py" height="80%" width="80%" alt="Stream Network Analysis"/>
 
