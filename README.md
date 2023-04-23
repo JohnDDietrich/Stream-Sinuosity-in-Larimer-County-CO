@@ -18,35 +18,10 @@ This final project for a GIS programing courese evaluated the stream network in 
 <h2>Python code written using PyCharm IDE </h2>
 
 
-<h2>C</h2>
+<h2>Code</h2>
 
-<p align="center">
+<p align="left">
 Code:
 
-<img src="https://github.com/JohnDDietrich/GISMontenegro/blob/main/Classify.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Add in water features  <br/>
-<img src="https://github.com/JohnDDietrich/GISMontenegro/blob/main/buffer1.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Create a 1km buffer around water features  <br/>
-<img src="https://github.com/JohnDDietrich/GISMontenegro/blob/main/Buffer2.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Find intersection between water buffer and 1500+ elevation polygons <br/>
-<img src="https://github.com/JohnDDietrich/GISMontenegro/blob/main/MNE_intersect.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Add in hillshade for visual effect  <br/>
-<img src="https://github.com/JohnDDietrich/GISMontenegro/blob/main/MNE_map.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/JohnDDietrich/Stream-Sinuosity-in-Larimer-County-CO/FinalProject_Dietrich" height="80%" width="80%" alt="Stream Network Analysis"/>
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
